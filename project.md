@@ -28,9 +28,9 @@ Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https:/
 - Three outstanding Mentors [Token URI](https://ipfs.io/ipfs/bafkreie27g3qracoqht26s45q445zueunod745tjtdnogul3e7gfzvryve)
 - Three outstanding community members [Token URI](https://ipfs.io/ipfs/bafkreihq6g6x4yytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
 
-<img src="/kaist/assets/images/web3kaist-award-topproject.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT">
-<img src="/kaist/assets/images/web3kaist-award-mentor.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Mentor Award NFT" alt="Web3@KAIST Outstanding Mentor Award NFT">
-<img src="/kaist/assets/images/web3kaist-award-member.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Member NFT" alt="Web3@KAIST Outstanding Member Award NFT">
+<img src="/kaist2023/assets/images/web3kaist-award-topproject.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT">
+<img src="/kaist2023/assets/images/web3kaist-award-mentor.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Mentor Award NFT" alt="Web3@KAIST Outstanding Mentor Award NFT">
+<img src="/kaist2023/assets/images/web3kaist-award-member.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Member NFT" alt="Web3@KAIST Outstanding Member Award NFT">
 
 3) Proof of Attendance (POA) NFTs
 Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https://sepolia.etherscan.io/address/0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089) <br>
@@ -41,11 +41,11 @@ Minted to all members of the class.
 - TA [Token URI](https://ipfs.io/ipfs/bafkreigtl7yif3e5z7ryyneahvjpnsjlqvjyko4fplyiq55iwjlahpok4y)
 - Staff [Token URI](https://ipfs.io/ipfs/bafkreidt6qcxu5oad4nle5ggbhkrg6jyhcawz2jymygqqhexeqgmhg2odq)
 
-<img src="/kaist/assets/images/web3kaist-poa.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA NFT" alt="Web3@KAIST POA NFT">
-<img src="/kaist/assets/images/web3kaist-poa-mentor.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Mentor NFT" alt="Web3@KAIST POA Mentor NFT">
-<img src="/kaist/assets/images/web3kaist-poa-prof.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Professor NFT" alt="Web3@KAIST POA Professor NFT">
-<img src="/kaist/assets/images/web3kaist-poa-ta.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA TA NFT" alt="Web3@KAIST POA TA NFT">
-<img src="/kaist/assets/images/web3kaist-poa-staff.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Staff NFT" alt="Web3@KAIST POA Staff NFT">
+<img src="/kaist2023/assets/images/web3kaist-poa.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA NFT" alt="Web3@KAIST POA NFT">
+<img src="/kaist2023/assets/images/web3kaist-poa-mentor.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Mentor NFT" alt="Web3@KAIST POA Mentor NFT">
+<img src="/kaist2023/assets/images/web3kaist-poa-prof.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Professor NFT" alt="Web3@KAIST POA Professor NFT">
+<img src="/kaist2023/assets/images/web3kaist-poa-ta.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA TA NFT" alt="Web3@KAIST POA TA NFT">
+<img src="/kaist2023/assets/images/web3kaist-poa-staff.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Staff NFT" alt="Web3@KAIST POA Staff NFT">
 
 # Certificate & POA NFT Minting
 
@@ -70,9 +70,9 @@ Contract address: 0x48F6F54163635B46162D884dBd73Ef7057dfE425 [Etherscan](https:/
 - 우수 멘토 3명 [Token URI](https://ipfs.io/ipfs/bafkreie27g3qracoqht26s45q445zueunod745tjtdnogul3e7gfzvryve)
 - 우수 커뮤니티 멤버 3명 [Token URI](https://ipfs.io/ipfs/bafkreihq6g6x4yytsj4aazcb4dnb5qvb2zcmraywz6vskkzj4uju2njuge)
 
-<img src="/kaist/assets/images/web3kaist-award-topproject.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT">
-<img src="/kaist/assets/images/web3kaist-award-mentor.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Mentor Award NFT" alt="Web3@KAIST Outstanding Mentor Award NFT">
-<img src="/kaist/assets/images/web3kaist-award-member.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Member NFT" alt="Web3@KAIST Outstanding Member Award NFT">
+<img src="/kaist2023/assets/images/web3kaist-award-topproject.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Top Project Award NFT" alt="Web3@KAIST Top Project Award NFT">
+<img src="/kaist2023/assets/images/web3kaist-award-mentor.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Mentor Award NFT" alt="Web3@KAIST Outstanding Mentor Award NFT">
+<img src="/kaist2023/assets/images/web3kaist-award-member.jpg" width="20%" height="20%" float="left" title="Web3@KAIST Outstanding Member NFT" alt="Web3@KAIST Outstanding Member Award NFT">
 
 3) Proof of Attendance(POA) NFT
 Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https://sepolia.etherscan.io/address/0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089) <br>
@@ -83,11 +83,11 @@ Contract address: 0x3a8E792540d082CE54dc63dCE8ccF5eAE1c8D089 [Etherscan](https:/
 - TA [Token URI](https://ipfs.io/ipfs/bafkreigtl7yif3e5z7ryyneahvjpnsjlqvjyko4fplyiq55iwjlahpok4y)
 - Staff [Token URI](https://ipfs.io/ipfs/bafkreidt6qcxu5oad4nle5ggbhkrg6jyhcawz2jymygqqhexeqgmhg2odq)
 
-<img src="/kaist/assets/images/web3kaist-poa.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA NFT" alt="Web3@KAIST POA NFT">
-<img src="/kaist/assets/images/web3kaist-poa-mentor.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Mentor NFT" alt="Web3@KAIST POA Mentor NFT">
-<img src="/kaist/assets/images/web3kaist-poa-prof.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Professor NFT" alt="Web3@KAIST POA Professor NFT">
-<img src="/kaist/assets/images/web3kaist-poa-ta.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA TA NFT" alt="Web3@KAIST POA TA NFT">
-<img src="/kaist/assets/images/web3kaist-poa-staff.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Staff NFT" alt="Web3@KAIST POA Staff NFT">
+<img src="/kaist2023/assets/images/web3kaist-poa.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA NFT" alt="Web3@KAIST POA NFT">
+<img src="/kaist2023/assets/images/web3kaist-poa-mentor.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Mentor NFT" alt="Web3@KAIST POA Mentor NFT">
+<img src="/kaist2023/assets/images/web3kaist-poa-prof.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Professor NFT" alt="Web3@KAIST POA Professor NFT">
+<img src="/kaist2023/assets/images/web3kaist-poa-ta.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA TA NFT" alt="Web3@KAIST POA TA NFT">
+<img src="/kaist2023/assets/images/web3kaist-poa-staff.jpg" width="18%" height="18%" float="left" title="Web3@KAIST POA Staff NFT" alt="Web3@KAIST POA Staff NFT">
 
 --------------------------------
 
@@ -400,7 +400,7 @@ You are required to submit a 1-page proposal for your final project by **midnigh
 ## Advice on 1-page proposal
 
 There is some advice for finding project ideas and writing proposals from Prof. Jason.
-This advice is based on the online voting service project we shared as [a proposal template file](http://web3classdao.xyz/kaist/assets/files/web3kaist-proposal-teamname.pdf).
+This advice is based on the online voting service project we shared as [a proposal template file](http://web3classdao.xyz/kaist2023/assets/files/web3kaist-proposal-teamname.pdf).
 We've focused on a prototype implementation of Option 1, but the same can be applied to Option 2.
 
 **There are already more than 350 potential users in the Web3@KAIST community. We recommend that you create a service for them, or propose a service for students on campus.** The online voting service in the example is the one we propose to use to evaluate the final projects in this class.
@@ -482,7 +482,7 @@ These tokens are only used as voting credits, not to create a cryptocurrency.
 ## Advice for 1-page proposal (Korean)
 
 프로젝트 아이디어를 찾고 제안서를 작성하는데 몇 가지 조언을 드립니다.
-이 조언은 [제안서 템플릿](http://web3classdao.xyz/kaist/assets/files/web3kaist-proposal-teamname.pdf)으로 공유드린 온라인 투표 서비스 프로젝트를 에시로 설명드립니다.
+이 조언은 [제안서 템플릿](http://web3classdao.xyz/kaist2023/assets/files/web3kaist-proposal-teamname.pdf)으로 공유드린 온라인 투표 서비스 프로젝트를 에시로 설명드립니다.
 Option 1. 프로토타입 구현하는 경우에 포커스를 맞췄지만, Option 2에도 동일하게 적용될 수 있습니다.
 
 **Web3@KAIST 커뮤니티에는 이미 350명 이상의 잠재적인 사용자가 있다. 이들을 위한 서비스를 만들어 써 보게 하는 것을 추천한다. 또는 교내 학생들을 위한 서비스를 제안해 보는 것도 좋다.** 예시로 든 온라인 투표 서비스 역시 이번 수업에서 프로젝트를 평가하기 위해 활용하려고 제안하는 것이다. 
