@@ -17,7 +17,7 @@ title: Web3@KAIST
 tagline: KAIST Web3 course website
 description: Building Web3 / Blockchain applications (2023 Spring KAIST CS)
 author: Jaesun Han
-baseurl: '/kaist' # the subpath of your site, e.g. /blog
+baseurl: '/kaist2023' # the subpath of your site, e.g. /blog
 url: 'https://web3classdao.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
